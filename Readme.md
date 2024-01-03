@@ -24,6 +24,7 @@ pip install requests beautifulsoup4 pandas matplotlib seaborn
 2. **Data Cleaning (`webscrapping.ipynb`):** The `webscrapping.ipynb` notebook showcases the process of cleaning the scraped data. It covers tasks like handling missing values, formatting columns, and preparing the data for visualization.
 
 3. **Data Visualization (`webscrapping.ipynb`):** The `webscrapping.ipynb` notebook illustrates various data visualization techniques using Matplotlib. It presents insights and trends based on the cleaned e-commerce data.
+![Screenshot 2024-01-03 at 10 44 43 AM](https://github.com/manojbusam/WebScrapping/assets/44409170/7866c82c-7886-49dc-872e-6c1710900fe5)
 
 ## Files
 
